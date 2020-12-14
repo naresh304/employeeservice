@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.cccis.employeeservice.models;
+package com.test.employeeservice.models;
 
 /**
  * @author sasi

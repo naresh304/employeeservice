@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.cccis.employeeservice.healthcheck;
+package com.test.employeeservice.healthcheck;
 
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.boot.actuate.health.HealthIndicator;

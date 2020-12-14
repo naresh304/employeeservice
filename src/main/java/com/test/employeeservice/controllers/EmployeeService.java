@@ -1,14 +1,14 @@
 /**
  * 
  */
-package com.cccis.employeeservice.controllers;
+package com.test.employeeservice.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.cccis.employeeservice.models.Employee;
+import com.test.employeeservice.models.Employee;
 
 /**
  * @author sasi

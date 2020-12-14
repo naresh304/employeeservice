@@ -9,7 +9,7 @@
 		<version>2.4.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cccis.employeeservice</groupId>
+	<groupId>com.test.employeeservice</groupId>
 	<artifactId>employeeservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbootpro-1</name>
