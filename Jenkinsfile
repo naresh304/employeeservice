@@ -1,6 +1,10 @@
 
 pipeline {
-    
+    agent {
+        node {
+            label 'master'
+        }
+    }
     tools { 
         maven 'Maven3' 
     }
